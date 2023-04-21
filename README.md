@@ -1,4 +1,4 @@
-# oneclik-onyxia
+# Mk8s-install
 
 The purpose of this project is to help launching Onyxia using MicroK8S
 
